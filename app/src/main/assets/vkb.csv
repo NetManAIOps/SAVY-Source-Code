@@ -1,0 +1,849 @@
+dnsmasq,0,111
+dnsmasq,2.0,161
+dnsmasq,2.14,211
+dnsmasq,2.29,161
+dnsmasq,2.50,111
+nginx,0,133
+nginx,0.1.0,357
+nginx,0.5.6,400
+nginx,0.7.0,450
+nginx,0.8.15,325
+nginx,0.8.36,326
+nginx,0.8.39,276
+nginx,0.8.41,301
+nginx,1.0.7,352
+nginx,1.1,402
+nginx,1.1.4,460
+nginx,1.1.18,410
+nginx,1.2,409
+nginx,1.3.9,434
+nginx,1.3.15,410
+nginx,1.5.0,320
+nginx,1.5.10,320
+nginx,1.5.12,245
+nginx,1.7.3,194
+nginx,1.7.4,151
+nginx,1.8.0,283
+nginx,3.12.4,108
+nginx,10.0.9,50
+samba,0,781
+samba,1.1.6,706
+samba,1.9.17,997
+samba,1.9.18,1043
+samba,2.0.0,1481
+samba,2.0.1,1574
+samba,2.0.4,1624
+samba,2.0.5,1850
+samba,2.0.7,1963
+samba,2.2.0a0,1749
+samba,2.2.2,1749
+samba,2.2.6,1674
+samba,2.2.7a0,1649
+samba,2.2.7,1574
+samba,2.2.8,1462
+samba,2.2.10,1262
+samba,2.3,1212
+samba,2.6.1,1137
+samba,2.6.2,1087
+samba,2.6.8,1023
+samba,2.6.9,1101
+samba,2.6.10,1150
+samba,2.6.29,1101
+samba,2.6.33.2,1023
+samba,2.16,976
+samba,2.18.3,994
+samba,3.0.0,2703
+samba,3.0.1,2602
+samba,3.0.2a0,2595
+samba,3.0.4,2520
+samba,3.0.5,2370
+samba,3.0.6,2374
+samba,3.0.7,2274
+samba,3.0.9,2073
+samba,3.0.12,2033
+samba,3.0.21a0,2091
+samba,3.0.22,2123
+samba,3.0.23,2073
+samba,3.0.25a0,2028
+samba,3.0.25,1868
+samba,3.0.26,1799
+samba,3.0.27,1613
+samba,3.0.28a0,1595
+samba,3.0.29,1680
+samba,3.1.0,1605
+samba,3.1.1,1591
+samba,3.2.0,1704
+samba,3.2.4,1683
+samba,3.2.6,1598
+samba,3.2.12,1535
+samba,3.3.0,1477
+samba,3.3.11,1504
+samba,3.4.0,1494
+samba,3.4.1,1435
+samba,3.4.5,1375
+samba,3.5.0,1410
+samba,3.5.1,1290
+samba,3.5.4,1190
+samba,3.5.6,1115
+samba,3.5.8,1065
+samba,3.5.9,1032
+samba,3.5.10,938
+samba,3.6.0,1076
+samba,3.6.3,1026
+samba,3.6.4,926
+samba,3.6.5,861
+samba,3.6.6,856
+samba,4.0.0,1523
+samba,4.0.1,1538
+samba,4.0.3,1436
+samba,4.0.7,1376
+samba,4.0.17,1326
+samba,4.1.0,1276
+samba,4.1.2,1224
+samba,4.1.5,1105
+samba,4.1.7,997
+samba,4.1.8,962
+samba,4.1.10,902
+samba,4.2.0rc3,823
+samba,4.2.0rc4,738
+samba,4.2.4,638
+samba,4.3.2,528
+samba,4.4.0rc3,285
+samba,4.43,196
+samba,4.52,150
+samba,6.4,129
+samba,10.4,122
+samba,12.0,29
+apache httpd,0,123
+apache httpd,0.8.11,252
+apache httpd,1.0.0,352
+apache httpd,1.1.1,427
+apache httpd,1.3,538
+apache httpd,1.3.9,588
+apache httpd,1.3.19,610
+apache httpd,1.3.29,506
+apache httpd,1.3.37,553
+apache httpd,1.6.0,707
+apache httpd,1.7.0,847
+apache httpd,1.7.8,757
+apache httpd,1.8.0,643
+apache httpd,1.8.10,603
+apache httpd,2.0.36,628
+apache httpd,2.0.39,678
+apache httpd,2.0.42,628
+apache httpd,2.0.43,560
+apache httpd,2.0.47,499
+apache httpd,2.0.54,435
+apache httpd,2.0.55,392
+apache httpd,2.0.59,398
+apache httpd,2.2.0,447
+apache httpd,2.2.3,590
+apache httpd,2.2.4,447
+apache httpd,2.2.11,351
+apache httpd,2.2.13,231
+apache httpd,2.2.22,223
+apache httpd,2.3.0,266
+apache httpd,2.4.0,259
+apache httpd,2.4.12,316
+apache httpd,2.4.13,266
+apache httpd,2.4.16,173
+apache httpd,2.5.8,123
+apache httpd,3.5,120
+apache httpd,4.4.6,155
+apache httpd,8.1.3,80
+linux kernel,0,470
+linux kernel,1.2.0,2945
+linux kernel,1.5.4,2991
+linux kernel,2.0,3565
+linux kernel,2.0.39,3616
+linux kernel,2.1,3666
+linux kernel,2.1.89,3716
+linux kernel,2.2.0,3980
+linux kernel,2.2.1,4001
+linux kernel,2.2.4rc1,4047
+linux kernel,2.2.6,4194
+linux kernel,2.2.7,4263
+linux kernel,2.2.10,4313
+linux kernel,2.2.13rc15,4309
+linux kernel,2.2.13,4330
+linux kernel,2.2.17rc14,4201
+linux kernel,2.2.19,4578
+linux kernel,2.2.23,4201
+linux kernel,2.2.27,7485
+linux kernel,2.3.2,7454
+linux kernel,2.4.0,9770
+linux kernel,2.4.1,9688
+linux kernel,2.4.3rc3,9766
+linux kernel,2.4.4,9909
+linux kernel,2.4.6,9981
+linux kernel,2.4.10,10017
+linux kernel,2.4.11rc3,10017
+linux kernel,2.4.11,9996
+linux kernel,2.4.16,9921
+linux kernel,2.4.17,9875
+linux kernel,2.4.18,9854
+linux kernel,2.4.19rc6,9833
+linux kernel,2.4.19,9791
+linux kernel,2.4.20,9559
+linux kernel,2.4.21,9537
+linux kernel,2.4.22,9729
+linux kernel,2.4.23,9590
+linux kernel,2.4.24,9518
+linux kernel,2.4.25,9397
+linux kernel,2.4.26,9325
+linux kernel,2.4.27rc1,9276
+linux kernel,2.4.29,9255
+linux kernel,2.4.30,9234
+linux kernel,2.4.33,9274
+linux kernel,2.4.34rc3,9245
+linux kernel,2.4.34,9343
+linux kernel,2.4.34.2,9296
+linux kernel,2.4.35,9366
+linux kernel,2.4.35.2,9396
+linux kernel,2.5.0,9359
+linux kernel,2.5.31,9309
+linux kernel,2.5.69,9288
+linux kernel,2.6.0,24726
+linux kernel,2.6.1rc1,23719
+linux kernel,2.6.1,23752
+linux kernel,2.6.2rc1,23851
+linux kernel,2.6.2,23900
+linux kernel,2.6.5,23903
+linux kernel,2.6.7,23707
+linux kernel,2.6.8rc1,23684
+linux kernel,2.6.8,23734
+linux kernel,2.6.8.1,23902
+linux kernel,2.6.8.1.5,23685
+linux kernel,2.6.9rc1,23747
+linux kernel,2.6.9,24003
+linux kernel,2.6.9.2.6.20,24019
+linux kernel,2.6.10rc1,23423
+linux kernel,2.6.10,23540
+linux kernel,2.6.11rc2,23302
+linux kernel,2.6.11,23554
+linux kernel,2.6.11.1,23285
+linux kernel,2.6.11.6,23306
+linux kernel,2.6.11.8,23273
+linux kernel,2.6.11.11,23201
+linux kernel,2.6.11.12,23180
+linux kernel,2.6.12rc1,23311
+linux kernel,2.6.12rc3,23290
+linux kernel,2.6.12rc4,23284
+linux kernel,2.6.12,23108
+linux kernel,2.6.12.1,23108
+linux kernel,2.6.13,23221
+linux kernel,2.6.13.3,22891
+linux kernel,2.6.14rc1,23047
+linux kernel,2.6.14rc4,23026
+linux kernel,2.6.14,23136
+linux kernel,2.6.14.1,22865
+linux kernel,2.6.14.3,22816
+linux kernel,2.6.14.4,22664
+linux kernel,2.6.14.7,22568
+linux kernel,2.6.15rc1,22470
+linux kernel,2.6.15rc2,22421
+linux kernel,2.6.15rc3,22372
+linux kernel,2.6.15,22492
+linux kernel,2.6.15.2,22054
+linux kernel,2.6.15.5,22004
+linux kernel,2.6.15.7,21883
+linux kernel,2.6.16rc1,21961
+linux kernel,2.6.16,22282
+linux kernel,2.6.16.1,22072
+linux kernel,2.6.16.7,22036
+linux kernel,2.6.16.12,22037
+linux kernel,2.6.16.15,22029
+linux kernel,2.6.16.16,21987
+linux kernel,2.6.16.30,21941
+linux kernel,2.6.17rc1,22007
+linux kernel,2.6.17rc4,22007
+linux kernel,2.6.17,22220
+linux kernel,2.6.17.2,21582
+linux kernel,2.6.17.3,21532
+linux kernel,2.6.17.4,21486
+linux kernel,2.6.17.6,21424
+linux kernel,2.6.17.8,21433
+linux kernel,2.6.17.9,21355
+linux kernel,2.6.17.10,21283
+linux kernel,2.6.18rc1,21335
+linux kernel,2.6.18rc5,21286
+linux kernel,2.6.18,22075
+linux kernel,2.6.18.3,21188
+linux kernel,2.6.18.4,21027
+linux kernel,2.6.18.8,21053
+linux kernel,2.6.19rc3,20819
+linux kernel,2.6.19,20925
+linux kernel,2.6.19.7,20702
+linux kernel,2.6.20,20824
+linux kernel,2.6.20.1,20769
+linux kernel,2.6.20.2,20439
+linux kernel,2.6.20.4,20280
+linux kernel,2.6.20.5,20202
+linux kernel,2.6.20.8,20155
+linux kernel,2.6.20.21,20106
+linux kernel,2.6.21rc1,20207
+linux kernel,2.6.21rc4,20207
+linux kernel,2.6.21rc7,20158
+linux kernel,2.6.21,20177
+linux kernel,2.6.21.1,20112
+linux kernel,2.6.21.2,19985
+linux kernel,2.6.21.3,19935
+linux kernel,2.6.21.4,19914
+linux kernel,2.6.21.5,19893
+linux kernel,2.6.21.7,19815
+linux kernel,2.6.22rc6,19593
+linux kernel,2.6.22,19583
+linux kernel,2.6.22.1,19597
+linux kernel,2.6.22.6,19467
+linux kernel,2.6.22.7,19487
+linux kernel,2.6.22.16,19467
+linux kernel,2.6.22.19,19395
+linux kernel,2.6.22.21,19219
+linux kernel,2.6.23rc1,19274
+linux kernel,2.6.23,19534
+linux kernel,2.6.23.7,19232
+linux kernel,2.6.23.9,19183
+linux kernel,2.6.23.13,19111
+linux kernel,2.6.23.14,19075
+linux kernel,2.6.24rc1,19113
+linux kernel,2.6.24rc3,19035
+linux kernel,2.6.24,19068
+linux kernel,2.6.24.1,18949
+linux kernel,2.6.24.4,18927
+linux kernel,2.6.24.7,18878
+linux kernel,2.6.25rc1,18830
+linux kernel,2.6.25,19141
+linux kernel,2.6.25.1,18929
+linux kernel,2.6.25.2,18880
+linux kernel,2.6.25.4,18758
+linux kernel,2.6.25.5,18658
+linux kernel,2.6.25.8,18611
+linux kernel,2.6.25.9,18513
+linux kernel,2.6.25.12,18441
+linux kernel,2.6.25.14,18333
+linux kernel,2.6.25.15,18284
+linux kernel,2.6.25.17,17900
+linux kernel,2.6.25.20,17782
+linux kernel,2.6.26rc4,17753
+linux kernel,2.6.26.2,17423
+linux kernel,2.6.26.3,17518
+linux kernel,2.6.26.4,17225
+linux kernel,2.6.26.5,17197
+linux kernel,2.6.26.8,17003
+linux kernel,2.6.27rc1,17023
+linux kernel,2.6.27,17144
+linux kernel,2.6.27.1,17063
+linux kernel,2.6.27.4,16985
+linux kernel,2.6.27.8,16836
+linux kernel,2.6.27.21,16768
+linux kernel,2.6.27.51,16716
+linux kernel,2.6.28rc1,16820
+linux kernel,2.6.28rc7,16751
+linux kernel,2.6.28,16908
+linux kernel,2.6.28.1,16295
+linux kernel,2.6.28.2,16197
+linux kernel,2.6.28.3,16148
+linux kernel,2.6.28.4,16148
+linux kernel,2.6.28.5,16052
+linux kernel,2.6.28.6,16010
+linux kernel,2.6.28.7,15814
+linux kernel,2.6.28.8,15778
+linux kernel,2.6.28.9,15633
+linux kernel,2.6.28.10,15562
+linux kernel,2.6.29rc1,15442
+linux kernel,2.6.29,15463
+linux kernel,2.6.29.6,15392
+linux kernel,2.6.30rc1,15404
+linux kernel,2.6.30rc4,15385
+linux kernel,2.6.30,15326
+linux kernel,2.6.30.1,15001
+linux kernel,2.6.30.2,14932
+linux kernel,2.6.30.3,14860
+linux kernel,2.6.30.4,14722
+linux kernel,2.6.30.5,14629
+linux kernel,2.6.30.9,14582
+linux kernel,2.6.31rc1,14582
+linux kernel,2.6.31rc2,14533
+linux kernel,2.6.31rc3,14461
+linux kernel,2.6.31rc5,14334
+linux kernel,2.6.31rc6,14184
+linux kernel,2.6.31rc7,14063
+linux kernel,2.6.31rc10,13965
+linux kernel,2.6.31,13965
+linux kernel,2.6.31.1,13696
+linux kernel,2.6.31.2,13520
+linux kernel,2.6.31.3,13471
+linux kernel,2.6.31.4,13399
+linux kernel,2.6.31.5,13278
+linux kernel,2.6.31.6,13229
+linux kernel,2.6.32rc3,13043
+linux kernel,2.6.32rc4,12994
+linux kernel,2.6.32rc6,12830
+linux kernel,2.6.32,12668
+linux kernel,2.6.32.3,11996
+linux kernel,2.6.32.4,11694
+linux kernel,2.6.32.5,11569
+linux kernel,2.6.32.7,11522
+linux kernel,2.6.32.13,11426
+linux kernel,2.6.32.58,11407
+linux kernel,2.6.33rc1,11436
+linux kernel,2.6.33rc4,11415
+linux kernel,2.6.33rc6,11343
+linux kernel,2.6.33rc8,11227
+linux kernel,2.6.33,11383
+linux kernel,2.6.33.1,10965
+linux kernel,2.6.33.2,10849
+linux kernel,2.6.33.3,10733
+linux kernel,2.6.33.6,10662
+linux kernel,2.6.33.7,10590
+linux kernel,2.6.33.13,10166
+linux kernel,2.6.33.20,10088
+linux kernel,2.6.34rc1,9775
+linux kernel,2.6.34rc3,9728
+linux kernel,2.6.34rc5,9557
+linux kernel,2.6.34,9438
+linux kernel,2.6.34.6,9319
+linux kernel,2.6.34.7,9184
+linux kernel,2.6.35rc1,8774
+linux kernel,2.6.35,8745
+linux kernel,2.6.35.1,8696
+linux kernel,2.6.35.3,8603
+linux kernel,2.6.35.4,8512
+linux kernel,2.6.35.7,8440
+linux kernel,2.6.35.9,8362
+linux kernel,2.6.35.13,7926
+linux kernel,2.6.36rc1,7884
+linux kernel,2.6.36rc3,7863
+linux kernel,2.6.36rc4,7425
+linux kernel,2.6.36rc5,7202
+linux kernel,2.6.36rc7,7079
+linux kernel,2.6.36rc8,7060
+linux kernel,2.6.36,7050
+linux kernel,2.6.36.1,7057
+linux kernel,2.6.36.4,6217
+linux kernel,2.6.37rc1,6035
+linux kernel,2.6.37rc2,5784
+linux kernel,2.6.37rc5,5735
+linux kernel,2.6.37rc6,5594
+linux kernel,2.6.37rc8,5547
+linux kernel,2.6.37,5320
+linux kernel,2.6.37.1,5250
+linux kernel,2.6.37.2,5201
+linux kernel,2.6.37.6,5080
+linux kernel,2.6.38rc1,5348
+linux kernel,2.6.38rc3,5279
+linux kernel,2.6.38rc4,5196
+linux kernel,2.6.38rc5,5147
+linux kernel,2.6.38rc8,5008
+linux kernel,2.6.38,4830
+linux kernel,2.6.38.2,4571
+linux kernel,2.6.38.3,4552
+linux kernel,2.6.38.4,4482
+linux kernel,2.6.38.5,4275
+linux kernel,2.6.38.7,4228
+linux kernel,2.6.38.8,4182
+linux kernel,2.6.39rc1,3323
+linux kernel,2.6.39rc7,3225
+linux kernel,2.6.39,2859
+linux kernel,2.6.39.1,2715
+linux kernel,2.6.39.2,2545
+linux kernel,2.6.39.3,2456
+linux kernel,2.6.39.4,2090
+linux kernel,3.0rc1,12424
+linux kernel,3.0rc4,12405
+linux kernel,3.0rc7,12356
+linux kernel,3.0.1,12532
+linux kernel,3.0.34,11894
+linux kernel,3.0.43,11873
+linux kernel,3.0.44,11852
+linux kernel,3.0.68,11770
+linux kernel,3.1rc2,11708
+linux kernel,3.1.1,11749
+linux kernel,3.1.7,11677
+linux kernel,3.1.8,11582
+linux kernel,3.1.9,11533
+linux kernel,3.1.10,11493
+linux kernel,3.2rc2,11625
+linux kernel,3.2,11677
+linux kernel,3.2.9,11465
+linux kernel,3.2.13,11244
+linux kernel,3.2.23,11197
+linux kernel,3.2.29,11079
+linux kernel,3.2.46,11001
+linux kernel,3.3rc1,11136
+linux kernel,3.3rc7,11188
+linux kernel,3.3.0,11163
+linux kernel,3.3.1,11153
+linux kernel,3.3.2,10938
+linux kernel,3.3.3,11040
+linux kernel,3.3.4,10919
+linux kernel,3.3.5,10870
+linux kernel,3.3.6,10781
+linux kernel,3.4rc1,10930
+linux kernel,3.4,10983
+linux kernel,3.4.1,11051
+linux kernel,3.4.4,11002
+linux kernel,3.4.7,10608
+linux kernel,3.4.15,10542
+linux kernel,3.4.18,10474
+linux kernel,3.4.32,10427
+linux kernel,3.4.79,10387
+linux kernel,3.5.1,10511
+linux kernel,3.5.4,10383
+linux kernel,3.5.6,10311
+linux kernel,3.5.7,10200
+linux kernel,3.5.10,9892
+linux kernel,3.6,9899
+linux kernel,3.6.4,9852
+linux kernel,3.6.8,9805
+linux kernel,3.6.11,9835
+linux kernel,3.7,9765
+linux kernel,3.7.2,9589
+linux kernel,3.7.3,9542
+linux kernel,3.7.4,9502
+linux kernel,3.7.5,9327
+linux kernel,3.7.8,9200
+linux kernel,3.7.9,9034
+linux kernel,3.8.0,9737
+linux kernel,3.8.2,9570
+linux kernel,3.8.3,9388
+linux kernel,3.8.4,9023
+linux kernel,3.8.5,8771
+linux kernel,3.8.7,8640
+linux kernel,3.8.8,8568
+linux kernel,3.8.10,8322
+linux kernel,3.8.13,8253
+linux kernel,3.9rc1,9313
+linux kernel,3.9rc7,8531
+linux kernel,3.9.0,8534
+linux kernel,3.9.9,8235
+linux kernel,3.9.11,8165
+linux kernel,3.10,8211
+linux kernel,3.10.1,8043
+linux kernel,3.10.3,7989
+linux kernel,3.10.5,7801
+linux kernel,3.10.7,7754
+linux kernel,3.10.9,7685
+linux kernel,3.10.12,7607
+linux kernel,3.11,7573
+linux kernel,3.11.1,7015
+linux kernel,3.11.4,6858
+linux kernel,3.11.6,6656
+linux kernel,3.11.7,6450
+linux kernel,3.12,5978
+linux kernel,3.12.1,5793
+linux kernel,3.12.3,5477
+linux kernel,3.12.5,4895
+linux kernel,3.12.7,4652
+linux kernel,3.12.9,4658
+linux kernel,3.12.10,4586
+linux kernel,3.12.17,4562
+linux kernel,3.13,4563
+linux kernel,3.13.1,4627
+linux kernel,3.13.2,4558
+linux kernel,3.13.3,4443
+linux kernel,3.13.4,4399
+linux kernel,3.13.5,4300
+linux kernel,3.13.6,4164
+linux kernel,3.13.9,3540
+linux kernel,3.14rc1,3676
+linux kernel,3.14,3748
+linux kernel,3.14.1,3701
+linux kernel,3.14.3,3389
+linux kernel,3.14.4,3101
+linux kernel,3.14.5,3060
+linux kernel,3.14.7,2826
+linux kernel,3.15.1,2718
+linux kernel,3.15.3,2193
+linux kernel,3.15.6,2124
+linux kernel,3.15.7,2055
+linux kernel,3.15.8,1939
+linux kernel,3.15.10,1939
+linux kernel,3.16.0,2806
+linux kernel,3.16.2,2222
+linux kernel,3.16.3,1845
+linux kernel,3.17,1660
+linux kernel,3.17.1,1463
+linux kernel,3.17.2,1414
+linux kernel,3.17.3,977
+linux kernel,3.17.4,623
+linux kernel,3.17.8,600
+linux kernel,3.18rc1,649
+linux kernel,3.18.0,602
+linux kernel,3.18.1,882
+linux kernel,3.18.2,437
+linux kernel,3.18.4,323
+linux kernel,3.18.7,504
+linux kernel,3.18.8,303
+linux kernel,3.18.9,303
+linux kernel,3.19,331
+linux kernel,3.19.1,253
+linux kernel,3.19.2,348
+linux kernel,3.19.5,329
+linux kernel,3.19.8,303
+linux kernel,3.25,190
+linux kernel,4.0.0,219
+linux kernel,4.0.1,268
+linux kernel,4.0.2,268
+linux kernel,4.0.3,219
+linux kernel,4.0.5,742
+linux kernel,4.0.9,173
+linux kernel,4.1.1,176
+linux kernel,4.1.3,225
+linux kernel,4.1.4,148
+linux kernel,4.1.5,313
+linux kernel,4.1.10,188
+linux kernel,4.2rc8,177
+linux kernel,4.2.2,223
+linux kernel,4.2.3,488
+linux kernel,4.2.6,166
+linux kernel,4.3rc7,195
+linux kernel,4.3.2,479
+linux kernel,4.3.3,215
+linux kernel,4.4rc8,415
+linux kernel,4.4,266
+linux kernel,4.4.1,319
+linux kernel,4.5.0,145
+linux kernel,4.6.0,96
+openldap,0,282
+openldap,1.0,598
+openldap,1.2.7,665
+openldap,1.2.11,644
+openldap,2.0.0,695
+openldap,2.0.19,645
+openldap,2.0.20,593
+openldap,2.1.12,570
+openldap,2.1.16,520
+openldap,2.1.19,470
+openldap,2.2.0,557
+openldap,2.2.1,445
+openldap,2.2.4,495
+openldap,2.2.28.post2,445
+openldap,2.3.28,373
+openldap,2.3.35,363
+openldap,2.3.39,363
+openldap,2.4.3,323
+openldap,2.4.6,548
+openldap,2.4.13,548
+openldap,2.4.22,648
+openldap,2.4.23,588
+openldap,2.4.26,424
+openldap,2.4.29,384
+openldap,2.4.31,358
+openldap,2.4.36,315
+openldap,2.4.39,272
+openldap,2.4.40,282
+openldap,2.4.42,232
+openldap,2.6.6,182
+openldap,2.30,132
+openldap,3.12.3,111
+openldap,10.4,93
+openldap,10.5,92
+openldap,10.9,43
+stunnel,0.1,115
+stunnel,3.3,336
+stunnel,3.4a0,404
+stunnel,3.24,304
+stunnel,4.0,229
+stunnel,4.4,195
+stunnel,4.21,249
+stunnel,4.23,177
+stunnel,4.40,202
+stunnel,4.54,109
+stunnel,4.56,43
+stunnel,5.0,58
+squid,0,248
+squid,2.0rc1,298
+squid,2.3,223
+squid,2.4,304
+squid,2.5.6,261
+squid,2.7,215
+squid,3,851
+squid,3.1,847
+squid,3.1.0.15,747
+squid,3.1.1,707
+squid,3.1.16,664
+squid,3.2,843
+squid,3.2.0.11,793
+squid,3.3.0.2,725
+squid,3.3.3,675
+squid,3.3.6,597
+squid,3.3.8,522
+squid,3.4.4,512
+squid,3.4.6,462
+squid,3.4.8,412
+squid,3.5.1,284
+squid,3.5.4,244
+squid,3.5.6,218
+squid,4,200
+dropbear,0,365
+dropbear,0.47,290
+dropbear,0.49,175
+dropbear,0.52,171
+dropbear,2013.59,100
+dropbear,2015.71,55
+openssh,0,2878
+openssh,1.2.1,2778
+openssh,1.2.6,2720
+openssh,1.2.24,2702
+openssh,1.2.31,2742
+openssh,2.0,2727
+openssh,2.3.1,2752
+openssh,2.9,2662
+openssh,2.9.9,2615
+openssh,3,2540
+openssh,3.0.2,2393
+openssh,3.2.1,2293
+openssh,3.3,2218
+openssh,3.6.1,2018
+openssh,3.7,1943
+openssh,3.7.1,1843
+openssh,4.0,1719
+openssh,4.2,1707
+openssh,4.3,1607
+openssh,4.4,1272
+openssh,4.5,1030
+openssh,4.6,955
+openssh,4.7,820
+openssh,4.9,745
+openssh,5.1,680
+openssh,5.6,668
+openssh,5.7,593
+openssh,5.8,558
+openssh,6.0.4,576
+openssh,6.1,550
+openssh,6.3.2,500
+openssh,6.4,407
+openssh,6.6,332
+openssh,6.9,216
+openssh,7.0,88
+openssh,10.4,50
+lighttpd,0,50
+lighttpd,1.0.2,379
+lighttpd,1.1.1,429
+lighttpd,1.3.0,432
+lighttpd,1.3.7,482
+lighttpd,1.3.16,557
+lighttpd,1.4.3,659
+lighttpd,1.4.7,709
+lighttpd,1.4.9,726
+lighttpd,1.4.12,726
+lighttpd,1.4.15,957
+lighttpd,1.4.18,698
+lighttpd,1.4.19,548
+lighttpd,1.4.24,435
+lighttpd,1.4.31,485
+lighttpd,1.4.33,333
+lighttpd,1.4.34,275
+lighttpd,1.4.35,200
+lighttpd,1.5.0,150
+lighttpd,5.1,50
+goahead,0,118
+goahead,2.0,543
+goahead,2.1,668
+goahead,2.1.1,568
+goahead,2.1.4,393
+goahead,2.1.5,343
+goahead,2.1.7,168
+goahead,2.1.8,161
+goahead,3.0.0,193
+goahead,3.6,118
+goahead,5.55,50
+appweb,0,268
+appweb,1.0,318
+appweb,1.1.2,218
+appweb,1.1.3,168
+appweb,2.2.2,43
+appweb,5,50
+pureftpd,0.90,98
+pureftpd,0.96,148
+pureftpd,1.0.29,98
+pureftpd,1.0.31,40
+wind river vxworks,5,427
+wind river vxworks,5.5,485
+wind river vxworks,6.5,796
+wind river vxworks,6.9,462
+wind river vxworks,6.9.4,58
+polipo,0,100
+polipo,0.9,200
+polipo,1.0.1,286
+polipo,1.0.4,100
+pure-ftpd,0.90,134
+pure-ftpd,1.0.22,178
+pure-ftpd,1.0.29,98
+pure-ftpd,1.0.31,40
+vsftpd,0,425
+vsftpd,0.6,475
+vsftpd,1.2.2,425
+vsftpd,2.0.4,375
+vsftpd,2.0.5,307
+vsftpd,2.3.3,236
+vsftpd,2.6.32,196
+vsftpd,2.15,118
+vsftpd,3.2,50
+openssl,0,1267
+openssl,0.2.4.20,1217
+openssl,0.6.3,1177
+openssl,0.9.1rc0,2385
+openssl,0.9.4,2435
+openssl,0.9.6a0,2560
+openssl,0.9.6,2835
+openssl,0.9.7a0,3049
+openssl,0.9.7b1,3124
+openssl,0.9.7,2892
+openssl,0.9.8a0,2729
+openssl,0.9.8,2769
+openssl,0.9.8.post0,2176
+openssl,0.28.6,2083
+openssl,0.29,2015
+openssl,0.99,1965
+openssl,1.0.0a0,2066
+openssl,1.0.0b1,2087
+openssl,1.0.0b2,2137
+openssl,1.0.0b4,2087
+openssl,1.0.0,2037
+openssl,1.0.1a0,2036
+openssl,1.0.1,1961
+openssl,1.0.2a0,1749
+openssl,1.0.2,1961
+openssl,1.0.6,990
+openssl,1.0.19,940
+openssl,1.1.1,954
+openssl,1.4.19,890
+openssl,1.5.19,826
+openssl,1.36.3,758
+openssl,1.41,722
+openssl,2.0.1,672
+openssl,2.2.1,572
+openssl,2.3.4,529
+openssl,2.6.0,479
+openssl,2.10.10,429
+openssl,3.11.3,365
+openssl,4.3.5,374
+openssl,4.7,342
+openssl,5.0,367
+openssl,5.0.3,324
+openssl,5.1.41,275
+openssl,5.3,207
+openssl,5.3.6,157
+openssl,5.3.9,164
+openssl,5.4,189
+openssl,5.5,232
+openssl,5.5.7,189
+openssl,7.1,172
+openssl,7.4,247
+openssl,7.18.0,290
+openssl,7.32.0,215
+openssl,7.36.0,172
+openssl,8.4,199
+openssl,9.6.0,114
+openssl,10.5,128
+openssl,10.6,139
+openssl,10.9.2,64
+openvas,1.0.0b1,90
+openvas,1.2rc1,165
+openvas,2.0rc2,90
+openvas,3.0b1,150
+openvas,4.0.3,75
+openvas,4.0.5,75
+openvas,6.0.0,43

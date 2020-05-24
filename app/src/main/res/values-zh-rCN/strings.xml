@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="app_name">WiFi安全卫士</string>
+
+    <string name="test_hint"> 2 (default)</string>
+    <string name="test_mode">选择模式：</string>
+    <string name="btn_getGatewayIP">Get IP Info</string>
+    <string name="btn_nmap">Nmap</string>
+    <string name="btn_TestMode">测试选项</string>
+    <string name="btn_Clear">重置</string>
+    <string name="btn_Send">发送</string>
+    <string name="btn_Run">运行中……</string>
+    <string name="btn_Details">详细扫描信息</string>
+    <string name="btn_Details_Start">开始扫描</string>
+    <string name="warning_invalidIP">警告：IP错误。</string>
+    <string name="warning_notLAN">警告：非局域网IP。</string>
+    <string name="nmap_IPConfirmed">IP已确认。探测型号中……</string>
+    <string name="model_Done">IP已确认。探测型号完毕，请点击按钮。</string>
+    <string name="akb_Done">型号探测结束。报告准备。</string>
+    <string name="akb_Failed">型号探测失败。需要进一步扫描。</string>
+    <string name="nmap_Sent">报告已发送。</string>
+    <string name="nmap_Sent_Failed">报告发送失败，请重试。</string>
+    <string name="error">错误。请重试。</string>
+
+    <string name="main_dispaly">无线名称: %1$S\nMAC地址: %2$S\nIP地址: %3$S\n路由网关: %4$S\n位置: %5$S\n型号探测: %6$S\n</string>
+    <string name="display_num">%1$d</string>
+    <string name="display_none">None.</string>
+    <string name="display_string">%1$S</string>
+    <string name="mode_Nmap_Always_Scan">准备就绪。强制Nmap模式。请点击按钮。</string>
+    <string name="mode_No_Nmap_Scan">准备就绪。Nmap禁止模式。请点击按钮。</string>
+    <string name="display_maindisplay_invalid">非法结果。</string>
+
+    <string name="setup_Done">准备就绪。请点击按钮。</string>
+    <string name="setup_Failed">准备初始化。请点击按钮。</string>
+    <string name="nmap_Done">路由器探测完毕，漏洞累计得分：</string>
+    <string name="nmap_Run">分数计算中，请等待……</string>
+
+    <string name="display_display_01"> </string>
+    <string name="display_display_0">您的WiFi危险等级评分是：</string>
+    <string name="display_display_1">您的WiFi安全性总评是：%1$S </string>
+    <string name="display_wifi_0">无线网络名称：</string>
+    <string name="display_model_0">检测路由器登陆页面结果：</string>
+    <string name="display_net_0">是否正常上网：</string>
+    <string name="display_dns_0">是否检测到DNS劫持：</string>
+    <string name="display_arp_0">是否检测到ARP攻击：</string>
+    <string name="display_wep_0">WiFi加密强度：</string>
+
+    <string name="dis_sec_none">无</string>
+    <string name="dis_sec_wep">弱</string>
+    <string name="dis_sec_wpa">强</string>
+    <string name="dis_sec_detected">发现异常</string>
+    <string name="dis_sec_undetected">未检测到异常</string>
+
+    <string name="vulnerable">危险</string>
+    <string name="medium">中等</string>
+    <string name="safe">安全</string>
+    <string name="rank">RANK</string>
+    <string name="ok">正常</string>
+    <string name="failed">失败</string>
+</resources>

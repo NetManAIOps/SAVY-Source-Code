@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <com.github.lzyzsd.circleprogress.ArcProgress
+        android:id="@+id/arc_progress"
+        android:background="@color/white"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        custom:arc_progress="0"
+        custom:arc_bottom_text="@string/rank"
+        custom:arc_suffix_text=" "
+        android:layout_above="@+id/display_display_1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp" />
+
+    <Button android:id="@+id/btn_details"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0dp"
+        android:text="@string/btn_Details_Start"
+        android:background="@color/midnight"
+        android:textColor="@color/yellow"
+        android:onClick="hitButton" />
+
+    <TextView
+        android:id="@+id/display_display_0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:text="@string/setup_Failed"
+        android:layout_above="@+id/arc_progress"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:id="@+id/display_display_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:text="@string/display_display_01"
+        android:layout_above="@+id/btn_details"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="6dp" />
+
+    <LinearLayout
+        android:id="@+id/display_wifi"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:background="@drawable/textlines" >
+        <TextView
+            android:id="@+id/display_wifi_0"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:layout_gravity="start"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:textSize="8pt"
+            android:gravity="center_vertical|start"
+            android:text="@string/display_wifi_0" />
+        <TextView
+            android:id="@+id/display_wifi_1"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:textSize="8pt"
+            android:layout_gravity="end"
+            android:layout_marginRight="10dp"
+            android:layout_marginEnd="10dp"
+            android:gravity="center_vertical|end"
+            android:text="" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/display_model"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/display_wifi"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/textlines" >
+
+        <TextView
+            android:id="@+id/display_model_0"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:layout_gravity="start"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:textSize="8pt"
+            android:gravity="center_vertical|start"
+            android:text="@string/display_model_0" />
+        <TextView
+            android:id="@+id/display_model_1"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:textSize="8pt"
+            android:layout_gravity="end"
+            android:layout_marginRight="10dp"
+            android:layout_marginEnd="10dp"
+            android:gravity="center_vertical|end"
+            android:text="" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/display_net"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/display_model"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/textlines" >
+        <TextView
+            android:id="@+id/display_net_0"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:layout_gravity="start"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:textSize="8pt"
+            android:gravity="center_vertical|start"
+            android:text="@string/display_net_0" />
+        <TextView
+            android:id="@+id/display_net_1"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:textSize="8pt"
+            android:layout_gravity="end"
+            android:layout_marginRight="10dp"
+            android:layout_marginEnd="10dp"
+            android:gravity="center_vertical|end"
+            android:text="" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/display_dns"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/display_net"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/textlines" >
+        <TextView
+            android:id="@+id/display_dns_0"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:layout_gravity="start"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:textSize="8pt"
+            android:gravity="center_vertical|start"
+            android:text="@string/display_dns_0" />
+        <TextView
+            android:id="@+id/display_dns_1"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:textSize="8pt"
+            android:layout_gravity="end"
+            android:layout_marginRight="10dp"
+            android:layout_marginEnd="10dp"
+            android:gravity="center_vertical|end"
+            android:text="" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/display_arp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/display_dns"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/textlines" >
+        <TextView
+            android:id="@+id/display_arp_0"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:layout_gravity="start"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:textSize="8pt"
+            android:gravity="center_vertical|start"
+            android:text="@string/display_arp_0" />
+        <TextView
+            android:id="@+id/display_arp_1"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:textSize="8pt"
+            android:layout_gravity="end"
+            android:layout_marginRight="10dp"
+            android:layout_marginEnd="10dp"
+            android:gravity="center_vertical|end"
+            android:text="" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/display_wep"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/display_arp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/textlines" >
+        <TextView
+            android:id="@+id/display_wep_0"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:layout_gravity="start"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:textSize="8pt"
+            android:gravity="center_vertical|start"
+            android:text="@string/display_wep_0" />
+        <TextView
+            android:id="@+id/display_wep_1"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:textSize="8pt"
+            android:layout_gravity="end"
+            android:layout_marginRight="10dp"
+            android:layout_marginEnd="10dp"
+            android:gravity="center_vertical|end"
+            android:text="" />
+    </LinearLayout>
+
+    <Button android:id="@+id/btn_reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_Clear"
+        android:background="@color/midnight"
+        android:textColor="@color/yellow"
+        android:onClick="clear"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
+
+
+
+
+

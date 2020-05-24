@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="app_name" translatable="false">Savy</string>
+
+    <string name="test_hint"> 2 (default)</string>
+    <string name="test_mode">Mode selected: </string>
+    <string name="btn_getGatewayIP">Get IP Info</string>
+    <string name="btn_nmap">Nmap</string>
+    <string name="btn_TestMode">Test Mode</string>
+    <string name="btn_Clear">Reset</string>
+    <string name="btn_Send">Send</string>
+    <string name="btn_Run">Running</string>
+    <string name="btn_Details">Scanning Details</string>
+    <string name="btn_Details_Start">Start Scanning</string>
+    <string name="warning_invalidIP">Warning: Invalid IP.</string>
+    <string name="warning_notLAN">Warning: Not LAN IP Address.</string>
+    <string name="nmap_IPConfirmed">IP Confirmed. Model Probing…</string>
+    <string name="model_Done">IP Confirmed. Model Probe Done. Hit the BUTTON.</string>
+    <string name="akb_Done">Model Probing Matched. Report Ready.</string>
+    <string name="akb_Failed">Model Probing Match Failed. Need further scan.</string>
+    <string name="nmap_Sent">Report Sent.</string>
+    <string name="nmap_Sent_Failed">Report Sent Failed. Please try again.</string>
+    <string name="error">Error. Please reset.</string>
+
+    <string name="main_dispaly">SSID: %1$S\nBSSID: %2$S\nYour IP: %3$S\nGateway: %4$S\nLocation: %5$S\nModel: %6$S\n</string>
+    <string name="display_num">%1$d</string>
+    <string name="display_none">None.</string>
+    <string name="display_string">%1$S</string>
+    <string name="mode_Nmap_Always_Scan">Ready. Nmap forced mode.</string>
+    <string name="mode_No_Nmap_Scan">Ready. Nmap disable mode.</string>
+    <string name="display_maindisplay_invalid">Invalid result.</string>
+
+    <string name="setup_Done">Ready.</string>
+    <string name="setup_Failed">Ready for initialization.</string>
+    <string name="nmap_Done">Scanning Done. The Vulnerabilities Score is:</string>
+    <string name="nmap_Run">Calculating the score. Please Wait…</string>
+
+    <string name="display_display_01"> </string>
+    <string name="display_display_0">Your VULNERABLE SCORE RANKING is</string>
+    <string name="display_display_1">Your WiFi Vulnerability state is %1$S.</string>
+    <string name="display_wifi_0">Wifi SSID:</string>
+    <string name="display_model_0">WiFi Config Page Title:</string>
+    <string name="display_net_0">Internet Access:</string>
+    <string name="display_dns_0">DNS Anomaly Check:</string>
+    <string name="display_arp_0">ARP Anomaly Check:</string>
+    <string name="display_wep_0">Security Type:</string>
+
+    <string name="dis_sec_none">None</string>
+    <string name="dis_sec_wep">Weak</string>
+    <string name="dis_sec_wpa">Strong</string>
+    <string name="dis_sec_detected">Detected</string>
+    <string name="dis_sec_undetected">Undetected</string>
+
+    <string name="vulnerable">VULNERABLE</string>
+    <string name="medium">MEDIUM</string>
+    <string name="safe">SAFE</string>
+    <string name="rank">RANK</string>
+    <string name="ok">OK</string>
+    <string name="failed">FAILED</string>
+</resources>
